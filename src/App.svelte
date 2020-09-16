@@ -90,7 +90,7 @@
 </script>
 
 <main>
-    <NavbarC />
+      <NavbarC />
     <div class="container my-4">
         <div class="row">
             <div class="col-md-4">
@@ -149,9 +149,9 @@
             </div>
             <div class="col-md-8">
                 {#each listProducts as p}
-                    <div class="card p-2 my-2">
+                    <div class="p-2 my-2 card">
                         <div class="row">
-                            <div class="col-md-4 text-center my-auto">
+                            <div class="my-auto text-center col-md-4">
                                 {#if !p.imgURL}
                                     <img
                                         src="/favicon.png"
