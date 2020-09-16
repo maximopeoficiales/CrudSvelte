@@ -1,7 +1,7 @@
 {
     "name": "svelte-app",
     "version": "1.0.0",
-    "homepage": "https://maximopeoficiales.github.io/crud-svelte/",
+    "homepage": "https://maximopeoficiales.github.io/crud-svelte",
     "scripts": {
         "predeploy": "npm run build",
         "deploy": "gh-pages -d public",
