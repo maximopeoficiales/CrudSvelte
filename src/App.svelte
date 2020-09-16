@@ -154,7 +154,7 @@
                             <div class="my-auto text-center col-md-4">
                                 {#if !p.imgURL}
                                     <img
-                                        src="./favicon.png"
+                                        src="/favicon.png"
                                         alt=""
                                         class="img-fluid" />
                                 {:else}
