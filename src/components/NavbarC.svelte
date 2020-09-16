@@ -4,7 +4,7 @@
     <div class="container">
       <a class="navbar-brand" href="/">
         <img
-          src="/favicon.png"
+          src="./favicon.png"
           width="30"
           height="30"
           class="d-inline-block align-top"
